@@ -1,1 +1,2 @@
-<?php echo "Sending email"; ?>
+<?php echo "Sending email";
+      echo "Another email from subl"; ?>
